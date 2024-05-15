@@ -1,0 +1,11 @@
+bitsandbytes
+accelerate
+torch 
+transformers
+huggingface_hub
+bitsandbytes
+peft
+fastapi
+uvicorn
+pydantic
+typing
